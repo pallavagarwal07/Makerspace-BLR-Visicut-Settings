@@ -1,0 +1,9 @@
+<linked-list>
+  <com.t__oster.liblasercut.drivers.EpilogEngraveProperty>
+    <power>35</power>
+    <speed>80</speed>
+    <focus>0.0</focus>
+    <hideFocus>true</hideFocus>
+    <engraveBottomUp>false</engraveBottomUp>
+  </com.t__oster.liblasercut.drivers.EpilogEngraveProperty>
+</linked-list>

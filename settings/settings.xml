@@ -1,0 +1,27 @@
+<visicutPreferences>
+  <disableSandbox>false</disableSandbox>
+  <useFilenamesForJobs>false</useFilenamesForJobs>
+  <labName>Makerspace BLR</labName>
+  <enableQRCodes>false</enableQRCodes>
+  <fastQRCodes>false</fastQRCodes>
+  <fabqrActive>false</fabqrActive>
+  <fabqrPrivateURL></fabqrPrivateURL>
+  <fabqrPublicURL></fabqrPublicURL>
+  <fabqrPrivateUser></fabqrPrivateUser>
+  <fabqrPrivatePassword></fabqrPrivatePassword>
+  <potracePath>potrace</potracePath>
+  <mkbitmapPath>mkbitmap</mkbitmapPath>
+  <autoUpdateSettingsDisabled>true</autoUpdateSettingsDisabled>
+  <lastAutoUpdateTime>0</lastAutoUpdateTime>
+  <lastAutoUpdateLabName></lastAutoUpdateLabName>
+  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
+  <recentFiles>
+  </recentFiles>
+  <lastMaterial>Wood</lastMaterial>
+  <lastLaserDevice>Epilog Mini</lastLaserDevice>
+  <availableImporters/>
+  <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
+  <fabLabLocationFacebookId></fabLabLocationFacebookId>
+  <laserCutterTags>lasercutter, lasercut, laser cutter, laser cut</laserCutterTags>
+  <supportedExtensions>svg, plf, dxf, eps, gcode</supportedExtensions>
+</visicutPreferences>

@@ -1,0 +1,11 @@
+<material>
+  <description>Wooden sheet</description>
+  <thumbnailPath>Wood.png</thumbnailPath>
+  <engraveColor>#452e18</engraveColor>
+  <cutColor>#ff0000</cutColor>
+  <color>#a87932</color>
+  <name>Wood</name>
+  <materialThicknesses>
+    <float>6</float>
+  </materialThicknesses>
+</material>
